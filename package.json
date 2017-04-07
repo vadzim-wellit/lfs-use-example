@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:vadzim-wellit/lfs-use-example.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dummy-packags": "https://github.com/vadzim-wellit/dummy-packags"
+  }
 }
